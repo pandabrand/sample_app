@@ -13,6 +13,8 @@ group :development, :test do
 	gem 'rspec-rails', '2.10.0'
 	gem 'annotate', '2.5.0', group: :development
 	gem 'guard-rspec', '0.5.5'
+	gem 'linecache19', '0.5.13'
+	gem 'debugger'
 end
 
 
